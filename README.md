@@ -1,4 +1,4 @@
-# 🌤️ IndWeather – Professional Weather Forecast App
+# 🌤️ IndWeather –  Weather Forecast App
 
 
 🔗 **Live Demo:**  
